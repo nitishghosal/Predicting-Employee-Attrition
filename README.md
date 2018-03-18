@@ -1,6 +1,7 @@
 # Predicting-Employee-Attrition
-Using machine learning to predict employee attrition in Python
 
+## Objective
+Using machine learning to predict employee attrition in Python
 
 ## Data Description 
 The dataset consists of 25491 obseravtions and 10 variables. Each row in dataset represents an employee; each column contains employee attributes:
@@ -16,4 +17,5 @@ The dataset consists of 25491 obseravtions and 10 variables. Each row in dataset
 * sales (Department in which they work for)
 * salary (Relative level of salary)
 
-## Objective
+## Approach
+We perform turnover analysis project by using Python’s Scikit-Learn library. We use Logistic Regression, Random Forest, and Support Vector Machine as classifier for employee attrition and measure the accuracy of models that are built.
